@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
@@ -60,7 +59,6 @@ Busco sempre aprender mais, criar projetos práticos e me desenvolver como progr
 </p>
 
 
-.github/workflows/snake.yml
 
 
 
