@@ -23,4 +23,9 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           message: "Atualizando a cobrinha 🐍"
-          add: "dist/snake.svg"
+          add: "dist/snake.svg"## 🐍 Minhas contribuições
+
+![Snake animation](https://github.com/isaquiel-santos/isaquiel-santos/blob/output/dist/snake.svg)
+
+
+          
