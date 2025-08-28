@@ -36,9 +36,7 @@ Busco sempre aprender mais, criar projetos práticos e me desenvolver como progr
 🎯 Estou à procura de um estágio para colocar meus conhecimentos em prática e crescer profissionalmente.  
 📚 Apaixonado por tecnologia, sempre buscando desafios e contribuindo para a comunidade de código.  
 
----
-
-## 🚀 Tecnologias que estou aprendendo  
+---  
 
 <p align="center">
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
