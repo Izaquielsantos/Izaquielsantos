@@ -1,0 +1,26 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Atualiza todo dia à meia-noite UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v2
+
+      - name: Gerar animação da cobrinha
+        uses: Platane/snk@v3
+        with:
+          github_user_name: isaquiel-santos
+          outputs: dist/snake.svg
+
+      - name: Commit e push do arquivo
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Atualizando a cobrinha 🐍"
+          add: "dist/snake.svg"
