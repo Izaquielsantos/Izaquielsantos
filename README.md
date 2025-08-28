@@ -49,16 +49,6 @@ Busco sempre aprender mais, criar projetos práticos e me desenvolver como progr
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" />
-</p>
-
-
- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaquiel-santos&theme=radical" alt="Streak Stats" />
-
 
 
 
