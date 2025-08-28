@@ -24,3 +24,4 @@ jobs:
         with:
           message: "Atualizando a cobrinha 🐍"
           add: "dist/snake.svg"
+
