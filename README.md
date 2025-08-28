@@ -55,22 +55,6 @@ Busco sempre aprender mais, criar projetos práticos e me desenvolver como progr
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
 </p>
 
-name: generate animation
-
-on:
-  # run automatically every 24 hours
-  schedule:
-    - cron: "0 */24 * * *" 
-  
-  # allows to manually run the job at any time
-  workflow_dispatch:
-  
-  # run on every push on the master branch
-  push:
-    branches:
-    - master
-    
-  
 
 
 
