@@ -16,7 +16,7 @@ jobs:
       - name: Gerar animação da cobrinha
         uses: Platane/snk@v3
         with:
-          github_user_name: isaquiel-santos
+          github_user_name: izaquielsantos
           outputs: dist/snake.svg
 
       - name: Commit e push do arquivo
