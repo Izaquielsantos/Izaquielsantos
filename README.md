@@ -10,7 +10,11 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+👋 Olá! Meu nome é Isaquiel Santos, tenho 24 anos e nasci em Batalha, Alagoas.
+💻 Estou no primeiro período da faculdade de Engenharia de Software e aprendendo Python, HTML, CSS e JavaScript.
+🚀 Busco constantemente aprender mais, criar projetos práticos e me desenvolver como programador.
+🎯 Estou à procura de um estágio para colocar meus conhecimentos em prática e crescer profissionalmente.
+📚 Apaixonado por tecnologia, sempre buscando desafios e contribuir para a comunidade de código
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
