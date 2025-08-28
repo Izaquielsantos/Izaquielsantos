@@ -55,6 +55,9 @@ Busco sempre aprender mais, criar projetos práticos e me desenvolver como progr
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
 </p>
 
+## 🐍 Minhas contribuições
+
+![Snake animation](https://github.com/isaquiel-santos/isaquiel-santos/blob/output/dist/snake.svg)
 
 
 
