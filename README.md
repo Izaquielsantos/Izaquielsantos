@@ -24,12 +24,14 @@
 # 👨‍💻 Futuro Desenvolvedor Web  
 
 Olá! Meu nome é **Isaquiel Santos**, tenho 24 anos e nasci em Batalha - AL.  
-Atualmente estou no **1º período da faculdade de Engenharia de Software** e estou aprendendo:  
+Atualmente estou no **2º período da faculdade de Engenharia de Software** e estou aprendendo:  
 
 - 🐍 Python  
 - 🌐 HTML  
 - 🎨 CSS  
-- ⚡ JavaScript  
+- ⚡ JavaScript
+- ☕️ Java
+
 
 Busco sempre aprender mais, criar projetos práticos e me desenvolver como programador.  
 🎯 Estou à procura de um estágio para colocar meus conhecimentos em prática e crescer profissionalmente.  
